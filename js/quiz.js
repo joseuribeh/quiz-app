@@ -36,7 +36,7 @@ startGame = () => {
 getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('finalScoreText', score)
-        return window.location.assign('/end.html')
+        return window.location.assign('quiz-app//end.html')
     }
     questionCounter++
     questionCounterText.innerText = questionCounter + "/" + MAX_QUESTIONS
