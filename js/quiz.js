@@ -11,7 +11,7 @@ let availableQuestions = []
 
 let questions = []
 
-fetch("quiz-app/questions.json")
+fetch("/questions.json")
     .then( res => {
         return res.json()
     }).then( loadedQuestions => {
