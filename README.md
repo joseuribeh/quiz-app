@@ -2,7 +2,7 @@
 
 This is a basic quiz app made in HTML, CSS and JavaScript Vanilla.
 
-Access [here]()
+Access [here](https://joseuribeh.github.io/quiz-app/)
 
 ## Usage
 It's made with JS Vanilla and fetch the questions from a simple json file. For the end page it saves the score on the localstorage.
