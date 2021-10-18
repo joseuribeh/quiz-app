@@ -1,0 +1,42 @@
+[
+    {
+        "question":"¿Cúando comenzó la Cohort 8 de Platzi Master?",
+        "choice1": "9 de Agosto",
+        "choice2": "12 de octubre",
+        "choice3": "No ha comenzado",
+        "choice4": "3 de Septiembre",
+        "answer": 2
+    },
+    {
+        "question":"¿Quién es @gndx?",
+        "choice1": "El fundador de Platzi",
+        "choice2": "El hermano de @cvander",
+        "choice3": "Oscar Barajas",
+        "choice4": "Una distro de Linux",
+        "answer": 3
+    },
+    {
+        "question": "¿Cuánto tiempo dura Platzi Master?",
+        "choice1": "6 meses",
+        "choice2": "12 meses",
+        "choice3": "3 meses",
+        "choice4": "5 meses",
+        "answer": 1
+    },
+    {
+        "question": "¿Qué colores tiene el logo de Google?",
+        "choice1": "Amarillo, Azúl, Rojo, Verde",
+        "choice2": "Rojo, Morado, Verde, Negro",
+        "choice3": "Blanco, Rojo, Verde",
+        "choice4": "Amarillo, Azúl, Naranja, Rojo",
+        "answer": 1
+    },
+    {
+        "question": "¿Cúal era el nombre de Platzi antes de llamarse así?",
+        "choice1": "LaTeach",
+        "choice2": "Educación Efectiva",
+        "choice3": "Escuela latina",
+        "choice4": "Mejorando.la",
+        "answer": 4
+    }
+]

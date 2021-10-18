@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/quiz.css" />
+</head>
+<body>
+    <main class="container">
+        <div id="quiz" class="justify-center flex-column">
+            <div id="hud">
+                <div id="hud-item">
+                    <p class="hud-prefix">
+                        Pregunta
+                    </p>
+                    <h1 class="hud-main-text" id="questionCounter">
+                        
+                    </h1>
+                </div>
+                <div id="hud-item">
+                    <p class="hud-prefix">
+                        Puntaje
+                    </p>
+                    <h1 class="hud-main-text" id = "score">
+                        0
+                    </h1>
+                </div>
+            </div>
+
+
+            <h2 id="question">Pregunta 1</h2>
+
+            <div class="choice-container">
+                <p class="choice-prefix">A</p>
+                <p class="choice-text" data-number="1">Opción 1</p>
+            </div>
+
+            <div class="choice-container">
+                <p class="choice-prefix">B</p>
+                <p class="choice-text" data-number="2">Opción 2</p>
+            </div>
+
+            <div class="choice-container">
+                <p class="choice-prefix">C</p>
+                <p class="choice-text" data-number="3">Opción 3</p>
+            </div>
+
+            <div class="choice-container">
+                <p class="choice-prefix">D</p>
+                <p class="choice-text" data-number="4">Opción 4</p>
+            </div>
+
+        </div>
+    </main>
+    <footer class="text-center flex-column">
+        <a href="https://github.com/joseuribeh">Jose Uribe</a>
+        <span>Platzi Master #Cohort8 💚 </span>
+    </footer>
+    <script src="js/quiz.js"></script>
+</body>
+</html>
